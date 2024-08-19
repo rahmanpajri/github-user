@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Github User Search</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan Nama Github</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="type">Type</string>
+    <string name="name">Name</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+</resources>
